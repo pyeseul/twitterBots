@@ -1,0 +1,23 @@
+{
+"origin": [
+     "Today is my birthday. #message#"
+   ],
+   "message": [
+     "Time to start the party!",
+     "Happiest of birthdays to me.",
+     "You want to wish me a happy birthday?",
+     "Thank you so much for the wonderful birthday wishes!",
+     "Happy Birthday from me to I!",
+     "It’s my favorite kind of day!",
+     "Today I am definitely having my cake… and eating it too!",
+     "It was a fantastic day for a birthday!",
+     "I’m another year older and another year more gorgeous, intelligent, and talented as ever!",
+     "On my birthday, one is the loneliest number!",
+     "Some days are more glorious than others!",
+     "Here is to me, on my very, special day!",
+     "This has been truly the greatest birthday I’ve ever had!"
+   ]
+}
+
+
+
