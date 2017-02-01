@@ -1,0 +1,47 @@
+{
+  "origin": [
+    "#[#algorithm#]sentence#"
+  ],
+  "sentence": [
+    "#name# https://en.wikipedia.org/wiki/#url#"
+  ],
+  
+  "algorithm":
+  [
+    "[name:Closest pair problem][url:Closet_pair_problem]",
+    "[name:Collision detection][url:Collision_detection]",
+    "[name:Cone algorithm][url:Cone_algorithm]",
+    "[name:Convex hull algorithms][url:Convex_hull_algorithms]",
+    "[name:Graham scan][url:Graham_scan]",
+    "[name:Quickhull][url:Quickhull]",
+    "[name:Gift wrapping algorithm][url:Gift_wrapping_algorithm]",
+    "[name:Chan's algorithm][url:Chan%27s_algorithm]",
+    "[name:Kirkpatrick–Seidel algorithm][url:Kirkpatrick–Seidel_algorithm]",
+    "[name:Euclidean Distance Transform][url:Distance_transform]",
+    "[name:Geometric hashing][url:Geometric_hashing]",
+    "[name:Gilbert–Johnson–Keerthi distance algorithm][url:Gilbert–Johnson–Keerthi distance_algorithm]",
+    "[name:Jump-and-Walk algorithm][url:Jump-and-Walk_algorithm]",
+    "[name:Laplacian smoothing][url:Laplacian_smoothing]",
+    "[name:Line segment intersection][url:Line_segment_intersection]",
+    "[name:Bentley–Ottmann algorithm][url:Bentley–Ottmann_algorithm]",
+    "[name:Shamos–Hoey algorithm][url:Shamos–Hoey_algorithm]",
+    "[name:Minimum bounding box algorithms][url:Minimum_bounding_box_algorithms]",
+    "[name:Nearest neighbor search][url:Nearest_neighbor_search]",
+    "[name:Point in polygon algorithms][url:Point_in_polygon_algorithms]",
+    "[name:Point set registration algorithms][url:Point_set_registration_algorithms]",
+    "[name:Rotating calipers][url:Rotating_calipers]",
+    "[name:Shoelace algorithm][url:Shoelace_algorithm]",
+    "[name:Triangulation][url:Triangulation]",
+    "[name:Delaunay triangulation][url:Delaunay_triangulation]",
+    "[name:Ruppert's algorithm][url:Ruppert%27s_algorithm]",
+    "[name:Chew's second algorithm][url:Chew%27s_second_algorithm]",
+    "[name:Marching triangles][url:Marching_triangles]",
+    "[name:Polygon triangulation algorithms][url:Polygon_triangulation_algorithms]",
+    "[name:Voronoi diagrams][url:Voronoi_diagrams]",
+    "[name:Bowyer–Watson algorithm][url:Bowyer–Watson_algorithm]",
+    "[name:Fortune's Algorithm][url:Fortune%27s_algorithm]",
+    "[name:Quasitriangulation][url:Quasitriangulation]"
+    
+  ]
+}
+
